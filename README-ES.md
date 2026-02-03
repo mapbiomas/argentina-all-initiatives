@@ -1,0 +1,1 @@
+# 🇦🇷 Argentina — Uso y Cobertura de la Tierra (LULC)
