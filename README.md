@@ -6,70 +6,57 @@ All repositories listed below are maintained by the MapBiomas Argentina team and
 
 ---
 
-## 🌍 Biomes of Argentina
+## 🌎 Biomes of Argentina
 
-Biome-specific repositories responsible for LULC classification, post-processing, and validation workflows.
+Biome-specific repositories responsible for LULC classification and post-processing
 
 ### 🌳 Atlantic Forest
-- **Repository:** https://github.com/mapbiomas/argentina-atlantic-forest  
-- **Description:** LULC mapping and analysis for the Atlantic Forest biome in Argentina.
+- **Repository:** https://github.com/mapbiomas/argentina-atlantic-forest 
+- **Description:** LULC mapping and analysis for the Atlantic Forest region in Argentina
 
 ---
 
-### 🌵 Chaco
-- **Repository:** https://github.com/mapbiomas/argentina-chaco  
-- **Description:** LULC classification and monitoring workflows for the Gran Chaco region.
+### 🌵  Chaco
+- **Repository:** https://github.com/mapbiomas/argentina-chaco 
+- **Description:** LULC classification and analysis workflows for the Chaco region
 
 ---
 
-### 🏜️ Monte, Puna & High Andes
-- **Repository:** https://github.com/mapbiomas/argentina-monte-puna-and-high-andes  
-- **Description:** Integrated LULC mapping for arid and high-altitude biomes, including Monte, Puna, and High Andes.
+### ⛰️ Monte, Puna & High Andes
+- **Repository:** https://github.com/mapbiomas/argentina-monte-puna-and-high-andes 
+- **Description:** LULC mapping and analysis workflows for the Monte, Puna, and High Andes region
 
 ---
 
 ### 🌾 Pampa
-- **Repository:** https://github.com/mapbiomas/argentina-pampa  
-- **Description:** Land use and cover mapping focused on grasslands and agricultural systems of the Pampas.
+- **Repository:** https://github.com/mapbiomas/argentina-pampa 
+- **Description:** LULC mapping and analysis workflows for the Pampas region
 
 ---
 
-### ❄️ Patagonia
-- **Repository:** https://github.com/mapbiomas/argentina-patagonia  
-- **Description:** LULC classification for Patagonia, covering steppe, forest, and cold-region dynamics.
+### 🗻 Patagonia
+- **Repository:** https://github.com/mapbiomas/argentina-patagonia 
+- **Description:** ULC mapping and analysis workflows for the Patagonia region
 
 ---
 
-## 🏙️ Thematic Products
+## Thematic Products
 
 Cross-cutting thematic repositories that operate across multiple biomes.
 
-### Urban Areas
-- **Repository:** https://github.com/mapbiomas/argentina-urban-areas  
+### 🌇 Urban Areas
+- **Repository:** https://github.com/mapbiomas/argentina-urban-areas 
 - **Description:** Mapping and monitoring of urban land use and expansion in Argentina.
 
 ---
 
-## 🧩 Methodology & Integration
+## 🧩 Methodology 
 
 All repositories are developed following MapBiomas standards, including:
 
 - Annual LULC time series
-- Biome-specific classification rules
+- Region-specific classification rules
 - Post-classification temporal filters
-- Validation and accuracy assessment procedures
-- Integration into national LULC collections
-
----
-
-## 📊 Data Access & Outputs
-
-Processed outputs are integrated into **MapBiomas Argentina LULC collections**, supporting:
-
-- Environmental monitoring
-- Public policy
-- Scientific research
-- Land management and planning
 
 ---
 
@@ -77,8 +64,8 @@ Processed outputs are integrated into **MapBiomas Argentina LULC collections**, 
 
 This initiative is part of the **MapBiomas Network**, coordinated by MapBiomas Argentina in collaboration with national research institutions and partners.
 
-For more information, visit:  
-👉 https://mapbiomas.org
+For more information, visit: 
+👉 https://argentina.mapbiomas.org
 
 ---
 
