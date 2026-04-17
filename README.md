@@ -48,6 +48,10 @@ Cross-cutting thematic repositories that operate across multiple biomes.
 - **Repository:** https://github.com/mapbiomas/argentina-urban-areas 
 - **Description:** Mapping and monitoring of urban land use and expansion in Argentina.
 
+### 🪾 Vegetation loss and secondary vegetation
+- **Repository:** https://github.com/mapbiomas/argentina-vegetation-loss-secondary-vegetation
+- **Description:** Temporal analysis with detection of vegetation loss and regrowth with secondary vegetation
+
 ---
 
 ## 🧩 Methodology 
