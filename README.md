@@ -53,7 +53,7 @@ Cross-cutting thematic repositories that operate across multiple biomes.
 - **Description:** Temporal analysis with detection of vegetation loss and regrowth with secondary vegetation
 
 ### 🔥 Fire
-- **Repository:** [https://github.com/mapbiomas/argentina-vegetation-loss-secondary-vegetation](https://github.com/mapbiomas/argentina-fire)
+- **Repository:** [https://github.com/mapbiomas/argentina-fire](https://github.com/mapbiomas/argentina-fire)
 - **Description:** Mapping and temporal analysis of fire occurrence and burned areas across Argentina.
 
 ### 🏔️ Glaciers
